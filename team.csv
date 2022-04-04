@@ -1,0 +1,759 @@
+year,league_id,team_id,w,name
+1990,NL,ATL,65,Atlanta Braves
+1990,AL,BAL,76,Baltimore Orioles
+1990,AL,BOS,88,Boston Red Sox
+1990,AL,CAL,80,California Angels
+1990,AL,CHA,94,Chicago White Sox
+1990,NL,CHN,77,Chicago Cubs
+1990,NL,CIN,91,Cincinnati Reds
+1990,AL,CLE,77,Cleveland Indians
+1990,AL,DET,79,Detroit Tigers
+1990,NL,HOU,75,Houston Astros
+1990,AL,KCA,75,Kansas City Royals
+1990,NL,LAN,86,Los Angeles Dodgers
+1990,AL,MIN,74,Minnesota Twins
+1990,AL,ML4,74,Milwaukee Brewers
+1990,NL,MON,85,Montreal Expos
+1990,AL,NYA,67,New York Yankees
+1990,NL,NYN,91,New York Mets
+1990,AL,OAK,103,Oakland Athletics
+1990,NL,PHI,77,Philadelphia Phillies
+1990,NL,PIT,95,Pittsburgh Pirates
+1990,NL,SDN,75,San Diego Padres
+1990,AL,SEA,77,Seattle Mariners
+1990,NL,SFN,85,San Francisco Giants
+1990,NL,SLN,70,St. Louis Cardinals
+1990,AL,TEX,83,Texas Rangers
+1990,AL,TOR,86,Toronto Blue Jays
+1991,NL,ATL,94,Atlanta Braves
+1991,AL,BAL,67,Baltimore Orioles
+1991,AL,BOS,84,Boston Red Sox
+1991,AL,CAL,81,California Angels
+1991,AL,CHA,87,Chicago White Sox
+1991,NL,CHN,77,Chicago Cubs
+1991,NL,CIN,74,Cincinnati Reds
+1991,AL,CLE,57,Cleveland Indians
+1991,AL,DET,84,Detroit Tigers
+1991,NL,HOU,65,Houston Astros
+1991,AL,KCA,82,Kansas City Royals
+1991,NL,LAN,93,Los Angeles Dodgers
+1991,AL,MIN,95,Minnesota Twins
+1991,AL,ML4,83,Milwaukee Brewers
+1991,NL,MON,71,Montreal Expos
+1991,AL,NYA,71,New York Yankees
+1991,NL,NYN,77,New York Mets
+1991,AL,OAK,84,Oakland Athletics
+1991,NL,PHI,78,Philadelphia Phillies
+1991,NL,PIT,98,Pittsburgh Pirates
+1991,NL,SDN,84,San Diego Padres
+1991,AL,SEA,83,Seattle Mariners
+1991,NL,SFN,75,San Francisco Giants
+1991,NL,SLN,84,St. Louis Cardinals
+1991,AL,TEX,85,Texas Rangers
+1991,AL,TOR,91,Toronto Blue Jays
+1992,NL,ATL,98,Atlanta Braves
+1992,AL,BAL,89,Baltimore Orioles
+1992,AL,BOS,73,Boston Red Sox
+1992,AL,CAL,72,California Angels
+1992,AL,CHA,86,Chicago White Sox
+1992,NL,CHN,78,Chicago Cubs
+1992,NL,CIN,90,Cincinnati Reds
+1992,AL,CLE,76,Cleveland Indians
+1992,AL,DET,75,Detroit Tigers
+1992,NL,HOU,81,Houston Astros
+1992,AL,KCA,72,Kansas City Royals
+1992,NL,LAN,63,Los Angeles Dodgers
+1992,AL,MIN,90,Minnesota Twins
+1992,AL,ML4,92,Milwaukee Brewers
+1992,NL,MON,87,Montreal Expos
+1992,AL,NYA,76,New York Yankees
+1992,NL,NYN,72,New York Mets
+1992,AL,OAK,96,Oakland Athletics
+1992,NL,PHI,70,Philadelphia Phillies
+1992,NL,PIT,96,Pittsburgh Pirates
+1992,NL,SDN,82,San Diego Padres
+1992,AL,SEA,64,Seattle Mariners
+1992,NL,SFN,72,San Francisco Giants
+1992,NL,SLN,83,St. Louis Cardinals
+1992,AL,TEX,77,Texas Rangers
+1992,AL,TOR,96,Toronto Blue Jays
+1993,NL,ATL,104,Atlanta Braves
+1993,AL,BAL,85,Baltimore Orioles
+1993,AL,BOS,80,Boston Red Sox
+1993,AL,CAL,71,California Angels
+1993,AL,CHA,94,Chicago White Sox
+1993,NL,CHN,84,Chicago Cubs
+1993,NL,CIN,73,Cincinnati Reds
+1993,AL,CLE,76,Cleveland Indians
+1993,NL,COL,67,Colorado Rockies
+1993,AL,DET,85,Detroit Tigers
+1993,NL,FLO,64,Florida Marlins
+1993,NL,HOU,85,Houston Astros
+1993,AL,KCA,84,Kansas City Royals
+1993,NL,LAN,81,Los Angeles Dodgers
+1993,AL,MIN,71,Minnesota Twins
+1993,AL,ML4,69,Milwaukee Brewers
+1993,NL,MON,94,Montreal Expos
+1993,AL,NYA,88,New York Yankees
+1993,NL,NYN,59,New York Mets
+1993,AL,OAK,68,Oakland Athletics
+1993,NL,PHI,97,Philadelphia Phillies
+1993,NL,PIT,75,Pittsburgh Pirates
+1993,NL,SDN,61,San Diego Padres
+1993,AL,SEA,82,Seattle Mariners
+1993,NL,SFN,103,San Francisco Giants
+1993,NL,SLN,87,St. Louis Cardinals
+1993,AL,TEX,86,Texas Rangers
+1993,AL,TOR,95,Toronto Blue Jays
+1994,NL,ATL,68,Atlanta Braves
+1994,AL,BAL,63,Baltimore Orioles
+1994,AL,BOS,54,Boston Red Sox
+1994,AL,CAL,47,California Angels
+1994,AL,CHA,67,Chicago White Sox
+1994,NL,CHN,49,Chicago Cubs
+1994,NL,CIN,66,Cincinnati Reds
+1994,AL,CLE,66,Cleveland Indians
+1994,NL,COL,53,Colorado Rockies
+1994,AL,DET,53,Detroit Tigers
+1994,NL,FLO,51,Florida Marlins
+1994,NL,HOU,66,Houston Astros
+1994,AL,KCA,64,Kansas City Royals
+1994,NL,LAN,58,Los Angeles Dodgers
+1994,AL,MIN,53,Minnesota Twins
+1994,AL,ML4,53,Milwaukee Brewers
+1994,NL,MON,74,Montreal Expos
+1994,AL,NYA,70,New York Yankees
+1994,NL,NYN,55,New York Mets
+1994,AL,OAK,51,Oakland Athletics
+1994,NL,PHI,54,Philadelphia Phillies
+1994,NL,PIT,53,Pittsburgh Pirates
+1994,NL,SDN,47,San Diego Padres
+1994,AL,SEA,49,Seattle Mariners
+1994,NL,SFN,55,San Francisco Giants
+1994,NL,SLN,53,St. Louis Cardinals
+1994,AL,TEX,52,Texas Rangers
+1994,AL,TOR,55,Toronto Blue Jays
+1995,NL,ATL,90,Atlanta Braves
+1995,AL,BAL,71,Baltimore Orioles
+1995,AL,BOS,86,Boston Red Sox
+1995,AL,CAL,78,California Angels
+1995,AL,CHA,68,Chicago White Sox
+1995,NL,CHN,73,Chicago Cubs
+1995,NL,CIN,85,Cincinnati Reds
+1995,AL,CLE,100,Cleveland Indians
+1995,NL,COL,77,Colorado Rockies
+1995,AL,DET,60,Detroit Tigers
+1995,NL,FLO,67,Florida Marlins
+1995,NL,HOU,76,Houston Astros
+1995,AL,KCA,70,Kansas City Royals
+1995,NL,LAN,78,Los Angeles Dodgers
+1995,AL,MIN,56,Minnesota Twins
+1995,AL,ML4,65,Milwaukee Brewers
+1995,NL,MON,66,Montreal Expos
+1995,AL,NYA,79,New York Yankees
+1995,NL,NYN,69,New York Mets
+1995,AL,OAK,67,Oakland Athletics
+1995,NL,PHI,69,Philadelphia Phillies
+1995,NL,PIT,58,Pittsburgh Pirates
+1995,NL,SDN,70,San Diego Padres
+1995,AL,SEA,79,Seattle Mariners
+1995,NL,SFN,67,San Francisco Giants
+1995,NL,SLN,62,St. Louis Cardinals
+1995,AL,TEX,74,Texas Rangers
+1995,AL,TOR,56,Toronto Blue Jays
+1996,NL,ATL,96,Atlanta Braves
+1996,AL,BAL,88,Baltimore Orioles
+1996,AL,BOS,85,Boston Red Sox
+1996,AL,CAL,70,California Angels
+1996,AL,CHA,85,Chicago White Sox
+1996,NL,CHN,76,Chicago Cubs
+1996,NL,CIN,81,Cincinnati Reds
+1996,AL,CLE,99,Cleveland Indians
+1996,NL,COL,83,Colorado Rockies
+1996,AL,DET,53,Detroit Tigers
+1996,NL,FLO,80,Florida Marlins
+1996,NL,HOU,82,Houston Astros
+1996,AL,KCA,75,Kansas City Royals
+1996,NL,LAN,90,Los Angeles Dodgers
+1996,AL,MIN,78,Minnesota Twins
+1996,AL,ML4,80,Milwaukee Brewers
+1996,NL,MON,88,Montreal Expos
+1996,AL,NYA,92,New York Yankees
+1996,NL,NYN,71,New York Mets
+1996,AL,OAK,78,Oakland Athletics
+1996,NL,PHI,67,Philadelphia Phillies
+1996,NL,PIT,73,Pittsburgh Pirates
+1996,NL,SDN,91,San Diego Padres
+1996,AL,SEA,85,Seattle Mariners
+1996,NL,SFN,68,San Francisco Giants
+1996,NL,SLN,88,St. Louis Cardinals
+1996,AL,TEX,90,Texas Rangers
+1996,AL,TOR,74,Toronto Blue Jays
+1997,AL,ANA,84,Anaheim Angels
+1997,NL,ATL,101,Atlanta Braves
+1997,AL,BAL,98,Baltimore Orioles
+1997,AL,BOS,78,Boston Red Sox
+1997,AL,CHA,80,Chicago White Sox
+1997,NL,CHN,68,Chicago Cubs
+1997,NL,CIN,76,Cincinnati Reds
+1997,AL,CLE,86,Cleveland Indians
+1997,NL,COL,83,Colorado Rockies
+1997,AL,DET,79,Detroit Tigers
+1997,NL,FLO,92,Florida Marlins
+1997,NL,HOU,84,Houston Astros
+1997,AL,KCA,67,Kansas City Royals
+1997,NL,LAN,88,Los Angeles Dodgers
+1997,AL,MIN,68,Minnesota Twins
+1997,AL,ML4,78,Milwaukee Brewers
+1997,NL,MON,78,Montreal Expos
+1997,AL,NYA,96,New York Yankees
+1997,NL,NYN,88,New York Mets
+1997,AL,OAK,65,Oakland Athletics
+1997,NL,PHI,68,Philadelphia Phillies
+1997,NL,PIT,79,Pittsburgh Pirates
+1997,NL,SDN,76,San Diego Padres
+1997,AL,SEA,90,Seattle Mariners
+1997,NL,SFN,90,San Francisco Giants
+1997,NL,SLN,73,St. Louis Cardinals
+1997,AL,TEX,77,Texas Rangers
+1997,AL,TOR,76,Toronto Blue Jays
+1998,AL,ANA,85,Anaheim Angels
+1998,NL,ARI,65,Arizona Diamondbacks
+1998,NL,ATL,106,Atlanta Braves
+1998,AL,BAL,79,Baltimore Orioles
+1998,AL,BOS,92,Boston Red Sox
+1998,AL,CHA,80,Chicago White Sox
+1998,NL,CHN,90,Chicago Cubs
+1998,NL,CIN,77,Cincinnati Reds
+1998,AL,CLE,89,Cleveland Indians
+1998,NL,COL,77,Colorado Rockies
+1998,AL,DET,65,Detroit Tigers
+1998,NL,FLO,54,Florida Marlins
+1998,NL,HOU,102,Houston Astros
+1998,AL,KCA,72,Kansas City Royals
+1998,NL,LAN,83,Los Angeles Dodgers
+1998,NL,MIL,74,Milwaukee Brewers
+1998,AL,MIN,70,Minnesota Twins
+1998,NL,MON,65,Montreal Expos
+1998,AL,NYA,114,New York Yankees
+1998,NL,NYN,88,New York Mets
+1998,AL,OAK,74,Oakland Athletics
+1998,NL,PHI,75,Philadelphia Phillies
+1998,NL,PIT,69,Pittsburgh Pirates
+1998,NL,SDN,98,San Diego Padres
+1998,AL,SEA,76,Seattle Mariners
+1998,NL,SFN,89,San Francisco Giants
+1998,NL,SLN,83,St. Louis Cardinals
+1998,AL,TBA,63,Tampa Bay Devil Rays
+1998,AL,TEX,88,Texas Rangers
+1998,AL,TOR,88,Toronto Blue Jays
+1999,AL,ANA,70,Anaheim Angels
+1999,NL,ARI,100,Arizona Diamondbacks
+1999,NL,ATL,103,Atlanta Braves
+1999,AL,BAL,78,Baltimore Orioles
+1999,AL,BOS,94,Boston Red Sox
+1999,AL,CHA,75,Chicago White Sox
+1999,NL,CHN,67,Chicago Cubs
+1999,NL,CIN,96,Cincinnati Reds
+1999,AL,CLE,97,Cleveland Indians
+1999,NL,COL,72,Colorado Rockies
+1999,AL,DET,69,Detroit Tigers
+1999,NL,FLO,64,Florida Marlins
+1999,NL,HOU,97,Houston Astros
+1999,AL,KCA,64,Kansas City Royals
+1999,NL,LAN,77,Los Angeles Dodgers
+1999,NL,MIL,74,Milwaukee Brewers
+1999,AL,MIN,63,Minnesota Twins
+1999,NL,MON,68,Montreal Expos
+1999,AL,NYA,98,New York Yankees
+1999,NL,NYN,97,New York Mets
+1999,AL,OAK,87,Oakland Athletics
+1999,NL,PHI,77,Philadelphia Phillies
+1999,NL,PIT,78,Pittsburgh Pirates
+1999,NL,SDN,74,San Diego Padres
+1999,AL,SEA,79,Seattle Mariners
+1999,NL,SFN,86,San Francisco Giants
+1999,NL,SLN,75,St. Louis Cardinals
+1999,AL,TBA,69,Tampa Bay Devil Rays
+1999,AL,TEX,95,Texas Rangers
+1999,AL,TOR,84,Toronto Blue Jays
+2000,AL,ANA,82,Anaheim Angels
+2000,NL,ARI,85,Arizona Diamondbacks
+2000,NL,ATL,95,Atlanta Braves
+2000,AL,BAL,74,Baltimore Orioles
+2000,AL,BOS,85,Boston Red Sox
+2000,AL,CHA,95,Chicago White Sox
+2000,NL,CHN,65,Chicago Cubs
+2000,NL,CIN,85,Cincinnati Reds
+2000,AL,CLE,90,Cleveland Indians
+2000,NL,COL,82,Colorado Rockies
+2000,AL,DET,79,Detroit Tigers
+2000,NL,FLO,79,Florida Marlins
+2000,NL,HOU,72,Houston Astros
+2000,AL,KCA,77,Kansas City Royals
+2000,NL,LAN,86,Los Angeles Dodgers
+2000,NL,MIL,73,Milwaukee Brewers
+2000,AL,MIN,69,Minnesota Twins
+2000,NL,MON,67,Montreal Expos
+2000,AL,NYA,87,New York Yankees
+2000,NL,NYN,94,New York Mets
+2000,AL,OAK,91,Oakland Athletics
+2000,NL,PHI,65,Philadelphia Phillies
+2000,NL,PIT,69,Pittsburgh Pirates
+2000,NL,SDN,76,San Diego Padres
+2000,AL,SEA,91,Seattle Mariners
+2000,NL,SFN,97,San Francisco Giants
+2000,NL,SLN,95,St. Louis Cardinals
+2000,AL,TBA,69,Tampa Bay Devil Rays
+2000,AL,TEX,71,Texas Rangers
+2000,AL,TOR,83,Toronto Blue Jays
+2001,AL,ANA,75,Anaheim Angels
+2001,NL,ARI,92,Arizona Diamondbacks
+2001,NL,ATL,88,Atlanta Braves
+2001,AL,BAL,63,Baltimore Orioles
+2001,AL,BOS,82,Boston Red Sox
+2001,AL,CHA,83,Chicago White Sox
+2001,NL,CHN,88,Chicago Cubs
+2001,NL,CIN,66,Cincinnati Reds
+2001,AL,CLE,91,Cleveland Indians
+2001,NL,COL,73,Colorado Rockies
+2001,AL,DET,66,Detroit Tigers
+2001,NL,FLO,76,Florida Marlins
+2001,NL,HOU,93,Houston Astros
+2001,AL,KCA,65,Kansas City Royals
+2001,NL,LAN,86,Los Angeles Dodgers
+2001,NL,MIL,68,Milwaukee Brewers
+2001,AL,MIN,85,Minnesota Twins
+2001,NL,MON,68,Montreal Expos
+2001,AL,NYA,95,New York Yankees
+2001,NL,NYN,82,New York Mets
+2001,AL,OAK,102,Oakland Athletics
+2001,NL,PHI,86,Philadelphia Phillies
+2001,NL,PIT,62,Pittsburgh Pirates
+2001,NL,SDN,79,San Diego Padres
+2001,AL,SEA,116,Seattle Mariners
+2001,NL,SFN,90,San Francisco Giants
+2001,NL,SLN,93,St. Louis Cardinals
+2001,AL,TBA,62,Tampa Bay Devil Rays
+2001,AL,TEX,73,Texas Rangers
+2001,AL,TOR,80,Toronto Blue Jays
+2002,AL,ANA,99,Anaheim Angels
+2002,NL,ARI,98,Arizona Diamondbacks
+2002,NL,ATL,101,Atlanta Braves
+2002,AL,BAL,67,Baltimore Orioles
+2002,AL,BOS,93,Boston Red Sox
+2002,AL,CHA,81,Chicago White Sox
+2002,NL,CHN,67,Chicago Cubs
+2002,NL,CIN,78,Cincinnati Reds
+2002,AL,CLE,74,Cleveland Indians
+2002,NL,COL,73,Colorado Rockies
+2002,AL,DET,55,Detroit Tigers
+2002,NL,FLO,79,Florida Marlins
+2002,NL,HOU,84,Houston Astros
+2002,AL,KCA,62,Kansas City Royals
+2002,NL,LAN,92,Los Angeles Dodgers
+2002,NL,MIL,56,Milwaukee Brewers
+2002,AL,MIN,94,Minnesota Twins
+2002,NL,MON,83,Montreal Expos
+2002,AL,NYA,103,New York Yankees
+2002,NL,NYN,75,New York Mets
+2002,AL,OAK,103,Oakland Athletics
+2002,NL,PHI,80,Philadelphia Phillies
+2002,NL,PIT,72,Pittsburgh Pirates
+2002,NL,SDN,66,San Diego Padres
+2002,AL,SEA,93,Seattle Mariners
+2002,NL,SFN,95,San Francisco Giants
+2002,NL,SLN,97,St. Louis Cardinals
+2002,AL,TBA,55,Tampa Bay Devil Rays
+2002,AL,TEX,72,Texas Rangers
+2002,AL,TOR,78,Toronto Blue Jays
+2003,AL,ANA,77,Anaheim Angels
+2003,NL,ARI,84,Arizona Diamondbacks
+2003,NL,ATL,101,Atlanta Braves
+2003,AL,BAL,71,Baltimore Orioles
+2003,AL,BOS,95,Boston Red Sox
+2003,AL,CHA,86,Chicago White Sox
+2003,NL,CHN,88,Chicago Cubs
+2003,NL,CIN,69,Cincinnati Reds
+2003,AL,CLE,68,Cleveland Indians
+2003,NL,COL,74,Colorado Rockies
+2003,AL,DET,43,Detroit Tigers
+2003,NL,FLO,91,Florida Marlins
+2003,NL,HOU,87,Houston Astros
+2003,AL,KCA,83,Kansas City Royals
+2003,NL,LAN,85,Los Angeles Dodgers
+2003,NL,MIL,68,Milwaukee Brewers
+2003,AL,MIN,90,Minnesota Twins
+2003,NL,MON,83,Montreal Expos
+2003,AL,NYA,101,New York Yankees
+2003,NL,NYN,66,New York Mets
+2003,AL,OAK,96,Oakland Athletics
+2003,NL,PHI,86,Philadelphia Phillies
+2003,NL,PIT,75,Pittsburgh Pirates
+2003,NL,SDN,64,San Diego Padres
+2003,AL,SEA,93,Seattle Mariners
+2003,NL,SFN,100,San Francisco Giants
+2003,NL,SLN,85,St. Louis Cardinals
+2003,AL,TBA,63,Tampa Bay Devil Rays
+2003,AL,TEX,71,Texas Rangers
+2003,AL,TOR,86,Toronto Blue Jays
+2004,AL,ANA,92,Anaheim Angels
+2004,NL,ARI,51,Arizona Diamondbacks
+2004,NL,ATL,96,Atlanta Braves
+2004,AL,BAL,78,Baltimore Orioles
+2004,AL,BOS,98,Boston Red Sox
+2004,AL,CHA,83,Chicago White Sox
+2004,NL,CHN,89,Chicago Cubs
+2004,NL,CIN,76,Cincinnati Reds
+2004,AL,CLE,80,Cleveland Indians
+2004,NL,COL,68,Colorado Rockies
+2004,AL,DET,72,Detroit Tigers
+2004,NL,FLO,83,Florida Marlins
+2004,NL,HOU,92,Houston Astros
+2004,AL,KCA,58,Kansas City Royals
+2004,NL,LAN,93,Los Angeles Dodgers
+2004,NL,MIL,67,Milwaukee Brewers
+2004,AL,MIN,92,Minnesota Twins
+2004,NL,MON,67,Montreal Expos
+2004,AL,NYA,101,New York Yankees
+2004,NL,NYN,71,New York Mets
+2004,AL,OAK,91,Oakland Athletics
+2004,NL,PHI,86,Philadelphia Phillies
+2004,NL,PIT,72,Pittsburgh Pirates
+2004,NL,SDN,87,San Diego Padres
+2004,AL,SEA,63,Seattle Mariners
+2004,NL,SFN,91,San Francisco Giants
+2004,NL,SLN,105,St. Louis Cardinals
+2004,AL,TBA,70,Tampa Bay Devil Rays
+2004,AL,TEX,89,Texas Rangers
+2004,AL,TOR,67,Toronto Blue Jays
+2005,NL,ARI,77,Arizona Diamondbacks
+2005,NL,ATL,90,Atlanta Braves
+2005,AL,BAL,74,Baltimore Orioles
+2005,AL,BOS,95,Boston Red Sox
+2005,AL,CHA,99,Chicago White Sox
+2005,NL,CHN,79,Chicago Cubs
+2005,NL,CIN,73,Cincinnati Reds
+2005,AL,CLE,93,Cleveland Indians
+2005,NL,COL,67,Colorado Rockies
+2005,AL,DET,71,Detroit Tigers
+2005,NL,FLO,83,Florida Marlins
+2005,NL,HOU,89,Houston Astros
+2005,AL,KCA,56,Kansas City Royals
+2005,AL,LAA,95,Los Angeles Angels of Anaheim
+2005,NL,LAN,71,Los Angeles Dodgers
+2005,NL,MIL,81,Milwaukee Brewers
+2005,AL,MIN,83,Minnesota Twins
+2005,AL,NYA,95,New York Yankees
+2005,NL,NYN,83,New York Mets
+2005,AL,OAK,88,Oakland Athletics
+2005,NL,PHI,88,Philadelphia Phillies
+2005,NL,PIT,67,Pittsburgh Pirates
+2005,NL,SDN,82,San Diego Padres
+2005,AL,SEA,69,Seattle Mariners
+2005,NL,SFN,75,San Francisco Giants
+2005,NL,SLN,100,St. Louis Cardinals
+2005,AL,TBA,67,Tampa Bay Devil Rays
+2005,AL,TEX,79,Texas Rangers
+2005,AL,TOR,80,Toronto Blue Jays
+2005,NL,WAS,81,Washington Nationals
+2006,NL,ARI,76,Arizona Diamondbacks
+2006,NL,ATL,79,Atlanta Braves
+2006,AL,BAL,70,Baltimore Orioles
+2006,AL,BOS,86,Boston Red Sox
+2006,AL,CHA,90,Chicago White Sox
+2006,NL,CHN,66,Chicago Cubs
+2006,NL,CIN,80,Cincinnati Reds
+2006,AL,CLE,78,Cleveland Indians
+2006,NL,COL,76,Colorado Rockies
+2006,AL,DET,95,Detroit Tigers
+2006,NL,FLO,78,Florida Marlins
+2006,NL,HOU,82,Houston Astros
+2006,AL,KCA,62,Kansas City Royals
+2006,AL,LAA,89,Los Angeles Angels of Anaheim
+2006,NL,LAN,88,Los Angeles Dodgers
+2006,NL,MIL,75,Milwaukee Brewers
+2006,AL,MIN,96,Minnesota Twins
+2006,AL,NYA,97,New York Yankees
+2006,NL,NYN,97,New York Mets
+2006,AL,OAK,93,Oakland Athletics
+2006,NL,PHI,85,Philadelphia Phillies
+2006,NL,PIT,67,Pittsburgh Pirates
+2006,NL,SDN,88,San Diego Padres
+2006,AL,SEA,78,Seattle Mariners
+2006,NL,SFN,76,San Francisco Giants
+2006,NL,SLN,83,St. Louis Cardinals
+2006,AL,TBA,61,Tampa Bay Devil Rays
+2006,AL,TEX,80,Texas Rangers
+2006,AL,TOR,87,Toronto Blue Jays
+2006,NL,WAS,71,Washington Nationals
+2007,NL,ARI,90,Arizona Diamondbacks
+2007,NL,ATL,84,Atlanta Braves
+2007,AL,BAL,69,Baltimore Orioles
+2007,AL,BOS,96,Boston Red Sox
+2007,AL,CHA,72,Chicago White Sox
+2007,NL,CHN,85,Chicago Cubs
+2007,NL,CIN,72,Cincinnati Reds
+2007,AL,CLE,96,Cleveland Indians
+2007,NL,COL,90,Colorado Rockies
+2007,AL,DET,88,Detroit Tigers
+2007,NL,FLO,71,Florida Marlins
+2007,NL,HOU,73,Houston Astros
+2007,AL,KCA,69,Kansas City Royals
+2007,AL,LAA,94,Los Angeles Angels of Anaheim
+2007,NL,LAN,82,Los Angeles Dodgers
+2007,NL,MIL,83,Milwaukee Brewers
+2007,AL,MIN,79,Minnesota Twins
+2007,AL,NYA,94,New York Yankees
+2007,NL,NYN,88,New York Mets
+2007,AL,OAK,76,Oakland Athletics
+2007,NL,PHI,89,Philadelphia Phillies
+2007,NL,PIT,68,Pittsburgh Pirates
+2007,NL,SDN,89,San Diego Padres
+2007,AL,SEA,88,Seattle Mariners
+2007,NL,SFN,71,San Francisco Giants
+2007,NL,SLN,78,St. Louis Cardinals
+2007,AL,TBA,66,Tampa Bay Devil Rays
+2007,AL,TEX,75,Texas Rangers
+2007,AL,TOR,83,Toronto Blue Jays
+2007,NL,WAS,73,Washington Nationals
+2008,NL,ARI,82,Arizona Diamondbacks
+2008,NL,ATL,72,Atlanta Braves
+2008,AL,BAL,68,Baltimore Orioles
+2008,AL,BOS,95,Boston Red Sox
+2008,AL,CHA,89,Chicago White Sox
+2008,NL,CHN,97,Chicago Cubs
+2008,NL,CIN,74,Cincinnati Reds
+2008,AL,CLE,81,Cleveland Indians
+2008,NL,COL,74,Colorado Rockies
+2008,AL,DET,74,Detroit Tigers
+2008,NL,FLO,84,Florida Marlins
+2008,NL,HOU,86,Houston Astros
+2008,AL,KCA,75,Kansas City Royals
+2008,AL,LAA,100,Los Angeles Angels of Anaheim
+2008,NL,LAN,84,Los Angeles Dodgers
+2008,NL,MIL,90,Milwaukee Brewers
+2008,AL,MIN,88,Minnesota Twins
+2008,AL,NYA,89,New York Yankees
+2008,NL,NYN,89,New York Mets
+2008,AL,OAK,75,Oakland Athletics
+2008,NL,PHI,92,Philadelphia Phillies
+2008,NL,PIT,67,Pittsburgh Pirates
+2008,NL,SDN,63,San Diego Padres
+2008,AL,SEA,61,Seattle Mariners
+2008,NL,SFN,72,San Francisco Giants
+2008,NL,SLN,86,St. Louis Cardinals
+2008,AL,TBA,97,Tampa Bay Rays
+2008,AL,TEX,79,Texas Rangers
+2008,AL,TOR,86,Toronto Blue Jays
+2008,NL,WAS,59,Washington Nationals
+2009,NL,ARI,70,Arizona Diamondbacks
+2009,NL,ATL,86,Atlanta Braves
+2009,AL,BAL,64,Baltimore Orioles
+2009,AL,BOS,95,Boston Red Sox
+2009,AL,CHA,79,Chicago White Sox
+2009,NL,CHN,83,Chicago Cubs
+2009,NL,CIN,78,Cincinnati Reds
+2009,AL,CLE,65,Cleveland Indians
+2009,NL,COL,92,Colorado Rockies
+2009,AL,DET,86,Detroit Tigers
+2009,NL,FLO,87,Florida Marlins
+2009,NL,HOU,74,Houston Astros
+2009,AL,KCA,65,Kansas City Royals
+2009,AL,LAA,97,Los Angeles Angels of Anaheim
+2009,NL,LAN,95,Los Angeles Dodgers
+2009,NL,MIL,80,Milwaukee Brewers
+2009,AL,MIN,87,Minnesota Twins
+2009,AL,NYA,103,New York Yankees
+2009,NL,NYN,70,New York Mets
+2009,AL,OAK,75,Oakland Athletics
+2009,NL,PHI,93,Philadelphia Phillies
+2009,NL,PIT,62,Pittsburgh Pirates
+2009,NL,SDN,75,San Diego Padres
+2009,AL,SEA,85,Seattle Mariners
+2009,NL,SFN,88,San Francisco Giants
+2009,NL,SLN,91,St. Louis Cardinals
+2009,AL,TBA,84,Tampa Bay Rays
+2009,AL,TEX,87,Texas Rangers
+2009,AL,TOR,75,Toronto Blue Jays
+2009,NL,WAS,59,Washington Nationals
+2010,NL,ARI,65,Arizona Diamondbacks
+2010,NL,ATL,91,Atlanta Braves
+2010,AL,BAL,66,Baltimore Orioles
+2010,AL,BOS,89,Boston Red Sox
+2010,AL,CHA,88,Chicago White Sox
+2010,NL,CHN,75,Chicago Cubs
+2010,NL,CIN,91,Cincinnati Reds
+2010,AL,CLE,69,Cleveland Indians
+2010,NL,COL,83,Colorado Rockies
+2010,AL,DET,81,Detroit Tigers
+2010,NL,FLO,80,Florida Marlins
+2010,NL,HOU,76,Houston Astros
+2010,AL,KCA,67,Kansas City Royals
+2010,AL,LAA,80,Los Angeles Angels of Anaheim
+2010,NL,LAN,80,Los Angeles Dodgers
+2010,NL,MIL,77,Milwaukee Brewers
+2010,AL,MIN,94,Minnesota Twins
+2010,AL,NYA,95,New York Yankees
+2010,NL,NYN,79,New York Mets
+2010,AL,OAK,81,Oakland Athletics
+2010,NL,PHI,97,Philadelphia Phillies
+2010,NL,PIT,57,Pittsburgh Pirates
+2010,NL,SDN,90,San Diego Padres
+2010,AL,SEA,61,Seattle Mariners
+2010,NL,SFN,92,San Francisco Giants
+2010,NL,SLN,86,St. Louis Cardinals
+2010,AL,TBA,96,Tampa Bay Rays
+2010,AL,TEX,90,Texas Rangers
+2010,AL,TOR,85,Toronto Blue Jays
+2010,NL,WAS,69,Washington Nationals
+2011,NL,ARI,94,Arizona Diamondbacks
+2011,NL,ATL,89,Atlanta Braves
+2011,AL,BAL,69,Baltimore Orioles
+2011,AL,BOS,90,Boston Red Sox
+2011,AL,CHA,79,Chicago White Sox
+2011,NL,CHN,71,Chicago Cubs
+2011,NL,CIN,79,Cincinnati Reds
+2011,AL,CLE,80,Cleveland Indians
+2011,NL,COL,73,Colorado Rockies
+2011,AL,DET,95,Detroit Tigers
+2011,NL,FLO,72,Florida Marlins
+2011,NL,HOU,56,Houston Astros
+2011,AL,KCA,71,Kansas City Royals
+2011,AL,LAA,86,Los Angeles Angels of Anaheim
+2011,NL,LAN,82,Los Angeles Dodgers
+2011,NL,MIL,96,Milwaukee Brewers
+2011,AL,MIN,63,Minnesota Twins
+2011,AL,NYA,97,New York Yankees
+2011,NL,NYN,77,New York Mets
+2011,AL,OAK,74,Oakland Athletics
+2011,NL,PHI,102,Philadelphia Phillies
+2011,NL,PIT,72,Pittsburgh Pirates
+2011,NL,SDN,71,San Diego Padres
+2011,AL,SEA,67,Seattle Mariners
+2011,NL,SFN,86,San Francisco Giants
+2011,NL,SLN,90,St. Louis Cardinals
+2011,AL,TBA,91,Tampa Bay Rays
+2011,AL,TEX,96,Texas Rangers
+2011,AL,TOR,81,Toronto Blue Jays
+2011,NL,WAS,80,Washington Nationals
+2012,NL,ARI,81,Arizona Diamondbacks
+2012,NL,ATL,94,Atlanta Braves
+2012,AL,BAL,93,Baltimore Orioles
+2012,AL,BOS,69,Boston Red Sox
+2012,AL,CHA,85,Chicago White Sox
+2012,NL,CHN,61,Chicago Cubs
+2012,NL,CIN,97,Cincinnati Reds
+2012,AL,CLE,68,Cleveland Indians
+2012,NL,COL,64,Colorado Rockies
+2012,AL,DET,88,Detroit Tigers
+2012,NL,HOU,55,Houston Astros
+2012,AL,KCA,72,Kansas City Royals
+2012,AL,LAA,89,Los Angeles Angels of Anaheim
+2012,NL,LAN,86,Los Angeles Dodgers
+2012,NL,MIA,69,Miami Marlins
+2012,NL,MIL,83,Milwaukee Brewers
+2012,AL,MIN,66,Minnesota Twins
+2012,AL,NYA,95,New York Yankees
+2012,NL,NYN,74,New York Mets
+2012,AL,OAK,94,Oakland Athletics
+2012,NL,PHI,81,Philadelphia Phillies
+2012,NL,PIT,79,Pittsburgh Pirates
+2012,NL,SDN,76,San Diego Padres
+2012,AL,SEA,75,Seattle Mariners
+2012,NL,SFN,94,San Francisco Giants
+2012,NL,SLN,88,St. Louis Cardinals
+2012,AL,TBA,90,Tampa Bay Rays
+2012,AL,TEX,93,Texas Rangers
+2012,AL,TOR,73,Toronto Blue Jays
+2012,NL,WAS,98,Washington Nationals
+2013,NL,ARI,81,Arizona Diamondbacks
+2013,NL,ATL,96,Atlanta Braves
+2013,AL,BAL,85,Baltimore Orioles
+2013,AL,BOS,97,Boston Red Sox
+2013,AL,CHA,63,Chicago White Sox
+2013,NL,CHN,66,Chicago Cubs
+2013,NL,CIN,90,Cincinnati Reds
+2013,AL,CLE,92,Cleveland Indians
+2013,NL,COL,74,Colorado Rockies
+2013,AL,DET,93,Detroit Tigers
+2013,AL,HOU,51,Houston Astros
+2013,AL,KCA,86,Kansas City Royals
+2013,AL,LAA,78,Los Angeles Angels of Anaheim
+2013,NL,LAN,92,Los Angeles Dodgers
+2013,NL,MIA,62,Miami Marlins
+2013,NL,MIL,74,Milwaukee Brewers
+2013,AL,MIN,66,Minnesota Twins
+2013,AL,NYA,85,New York Yankees
+2013,NL,NYN,74,New York Mets
+2013,AL,OAK,96,Oakland Athletics
+2013,NL,PHI,73,Philadelphia Phillies
+2013,NL,PIT,94,Pittsburgh Pirates
+2013,NL,SDN,76,San Diego Padres
+2013,AL,SEA,71,Seattle Mariners
+2013,NL,SFN,76,San Francisco Giants
+2013,NL,SLN,97,St. Louis Cardinals
+2013,AL,TBA,92,Tampa Bay Rays
+2013,AL,TEX,91,Texas Rangers
+2013,AL,TOR,74,Toronto Blue Jays
+2013,NL,WAS,86,Washington Nationals
+2014,NL,ARI,64,Arizona Diamondbacks
+2014,NL,ATL,79,Atlanta Braves
+2014,AL,BAL,96,Baltimore Orioles
+2014,AL,BOS,71,Boston Red Sox
+2014,AL,CHA,73,Chicago White Sox
+2014,NL,CHN,73,Chicago Cubs
+2014,NL,CIN,76,Cincinnati Reds
+2014,AL,CLE,85,Cleveland Indians
+2014,NL,COL,66,Colorado Rockies
+2014,AL,DET,90,Detroit Tigers
+2014,AL,HOU,70,Houston Astros
+2014,AL,KCA,89,Kansas City Royals
+2014,AL,LAA,98,Los Angeles Angels of Anaheim
+2014,NL,LAN,94,Los Angeles Dodgers
+2014,NL,MIA,77,Miami Marlins
+2014,NL,MIL,82,Milwaukee Brewers
+2014,AL,MIN,70,Minnesota Twins
+2014,AL,NYA,84,New York Yankees
+2014,NL,NYN,79,New York Mets
+2014,AL,OAK,88,Oakland Athletics
+2014,NL,PHI,73,Philadelphia Phillies
+2014,NL,PIT,88,Pittsburgh Pirates
+2014,NL,SDN,77,San Diego Padres
+2014,AL,SEA,87,Seattle Mariners
+2014,NL,SFN,88,San Francisco Giants
+2014,NL,SLN,90,St. Louis Cardinals
+2014,AL,TBA,77,Tampa Bay Rays
+2014,AL,TEX,67,Texas Rangers
+2014,AL,TOR,83,Toronto Blue Jays
+2014,NL,WAS,96,Washington Nationals
+2015,AL,KCA,95,Kansas City Royals
+2015,AL,MIN,83,Minnesota Twins
+2015,AL,CLE,81,Cleveland Indians
+2015,AL,CHA,76,Chicago White Sox
+2015,AL,DET,74,Detroit Tigers
+2015,AL,TOR,93,Toronto Blue Jays
+2015,AL,NYA,87,New York Yankees
+2015,AL,BAL,81,Baltimore Orioles
+2015,AL,TBA,80,Tampa Bay Rays
+2015,AL,BOS,78,Boston Red Sox
+2015,AL,TEX,88,Texas Rangers
+2015,AL,HOU,86,Houston Astros
+2015,AL,LAA,85,Los Angeles Angels of Anaheim
+2015,AL,SEA,76,Seattle Mariners
+2015,AL,OAK,68,Oakland Athletics
+2015,NL,SLN,100,St. Louis Cardinals
+2015,NL,PIT,98,Pittsburgh Pirates
+2015,NL,CHN,97,Chicago Cubs
+2015,NL,MIL,68,Milwaukee Brewers
+2015,NL,CIN,64,Cincinnati Reds
+2015,NL,NYN,90,New York Mets
+2015,NL,WAS,83,Washington Nationals
+2015,NL,MIA,71,Miami Marlins
+2015,NL,ATL,67,Atlanta Braves
+2015,NL,PHI,63,Philadelphia Phillies
+2015,NL,LAN,92,Los Angeles Dodgers
+2015,NL,SFN,84,San Francisco Giants
+2015,NL,ARI,79,Arizona Diamondbacks
+2015,NL,SDN,74,San Diego Padres
+2015,NL,COL,68,Colorado Rockies

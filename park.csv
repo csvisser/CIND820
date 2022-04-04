@@ -1,0 +1,251 @@
+park_id,park_name
+ALB01,Riverside Park
+ALT01,Columbia Park
+ANA01,Angel Stadium of Anaheim
+ARL01,Arlington Stadium
+ARL02,Rangers Ballpark in Arlington
+ATL01,Atlanta-Fulton County Stadium
+ATL02,Turner Field
+BAL01,Madison Avenue Grounds
+BAL02,Newington Park
+BAL03,Oriole Park I
+BAL04,Belair Lot
+BAL05,Monumental Park
+BAL06,Oriole Park II
+BAL07,Oriole Park III
+BAL09,Oriole Park IV
+BAL10,Terrapin Park
+BAL11,Memorial Stadium
+BAL12,Oriole Park at Camden Yards
+BOS01,South End Grounds I
+BOS02,Dartmouth Grounds
+BOS03,South End Grounds II
+BOS04,Congress Street Grounds
+BOS05,South End Grounds III
+BOS06,Huntington Avenue Baseball Grounds
+BOS07,Fenway Park
+BOS08,Braves Field
+BUF01,Riverside Grounds
+BUF02,Olympic Park I
+BUF03,Olympic Park II
+BUF04,International Fair Association Grounds
+CAN01,Mahaffey Park
+CAN02,Pastime Park
+CHI01,Lake Front Park I
+CHI02,23rd Street Park
+CHI03,Lake Front Park II
+CHI04,Lake Front Park III
+CHI05,South Side Park I
+CHI06,West Side Park
+CHI07,South Side Park II
+CHI08,West Side Grounds
+CHI09,South Side Park III
+CHI10,Comiskey Park I
+CHI11,Wrigley Field
+CHI12,U.S. Cellular Field
+CIN01,Lincoln Park Grounds
+CIN02,Avenue Grounds
+CIN03,Bank Street Grounds
+CIN04,League Park I
+CIN05,League Park II
+CIN06,Palace of the Fans
+CIN07,Crosley Field
+CIN08,Cinergy Field
+CIN09,Great American Ballpark
+CLE01,National Association Grounds
+CLE02,League Park I
+CLE03,League Park II
+CLE04,Brotherhood Park
+CLE05,League Park III
+CLE06,League Park IV
+CLE07,Cleveland Stadium
+CLE08,Progressive Field
+CLE09,Cedar Avenue Driving Park
+CLL01,Euclid Beach Park
+COL01,Recreation Park I
+COL02,Recreation Park II
+COL03,Neil Park I
+COL04,Neil Park II
+COV01,Star Baseball Park
+DAY01,Fairview Park
+DEN01,Mile High Stadium
+DEN02,Coors Field
+DET01,Recreation Park
+DET02,Bennett Park
+DET03,Burns Park
+DET04,Tiger Stadium
+DET05,Comerica Park
+DOV01,Fairview Park Fair Grounds
+ELM01,Maple Avenue Driving Park
+FOR01,Grand Duchess
+FOR02,Swinney Park
+FOR03,Jailhouse Flats
+GEA01,Geauga Lake Grounds
+GLO01,Gloucester Point Grounds
+GRA01,Ramona Park
+HAR01,Harrison Field
+HON01,Aloha Stadium
+HOU01,Colt Stadium
+HOU02,Astrodome
+HOU03,Minute Maid Park
+HRT01,Hartford Ball Club Grounds
+HRT02,Hartford Trotting Park
+IND01,South Street Park
+IND02,Seventh Street Park I
+IND03,Bruce Grounds
+IND04,Seventh Street Park II
+IND05,Seventh Street Park III
+IND06,Indianapolis Park
+IND07,Federal League Park
+IRO01,Windsor Beach
+JER01,Oakland Park
+JER02,Roosevelt Stadium
+KAN01,Athletic Park
+KAN02,Association Park
+KAN03,Exposition Park
+KAN04,Gordon and Koppel Field
+KAN05,Municipal Stadium
+KAN06,Kauffman Stadium
+KEO01,Perry Park
+LAS01,Cashman Field
+LBV01,The Ballpark at Disney's Wide World
+LOS01,Los Angeles Memorial Coliseum
+LOS02,Wrigley Field
+LOS03,Dodger Stadium
+LOU01,Louisville Baseball Park
+LOU02,Eclipse Park I
+LOU03,Eclipse Park II
+LOU04,Eclipse Park III
+LUD01,Ludlow Baseball Park
+MAS01,Long Island Grounds
+MIA01,Sun Life Stadium
+MIA02,Marlins Park
+MID01,Mansfield Club Grounds
+MIL01,Milwaukee Base-Ball Grounds
+MIL02,Wright Street Grounds
+MIL03,Athletic Park
+MIL04,Lloyd Street Grounds
+MIL05,County Stadium
+MIL06,Miller Park
+MIN01,Athletic Park
+MIN02,Metropolitan Stadium
+MIN03,Hubert H. Humphrey Metrodome
+MIN04,Target Field
+MNT01,Estadio Monterrey
+MON01,Parc Jarry
+MON02,Stade Olympique
+NEW01,Howard Avenue Grounds
+NEW02,Hamilton Park
+NEW03,Beyerle's Park
+NWK01,Wiedenmeyer's Park
+NYC01,Union Grounds
+NYC02,Capitoline Grounds
+NYC03,Polo Grounds I (Southeast Diamond)
+NYC04,Polo Grounds II (Southwest Diamond)
+NYC05,Washington Park I
+NYC06,Metropolitan Park
+NYC07,Grauer's Ridgewood Park
+NYC08,Washington Park II
+NYC09,Polo Grounds III
+NYC10,Polo Grounds IV
+NYC11,Eastern Park
+NYC12,Washington Park III
+NYC13,Hilltop Park
+NYC14,Polo Grounds V
+NYC15,Ebbets Field
+NYC16,Yankee Stadium I
+NYC17,Shea Stadium
+NYC18,Wallace's Ridgewood Park
+NYC19,Washington Park IV
+NYC20,Citi Field
+NYC21,Yankee Stadium II
+OAK01,Oakland-Alameda County Coliseum
+PEN01,East End Park
+PHI01,Jefferson Street Grounds
+PHI02,Centennial Park
+PHI03,Oakdale Park
+PHI04,Recreation Park
+PHI05,Keystone Park
+PHI06,Huntingdon Grounds I
+PHI07,Forepaugh Park
+PHI08,University of Penn. Athletic Field
+PHI09,Baker Bowl
+PHI10,Columbia Park
+PHI11,Shibe Park
+PHI12,Veterans Stadium
+PHI13,Citizens Bank Park
+PHI14,Huntingdon Grounds II
+PHO01,Chase Field
+PIT01,Union Park
+PIT02,Exposition Park I
+PIT03,Exposition Park II
+PIT04,Recreation Park
+PIT05,Exposition Park III
+PIT06,Forbes Field
+PIT07,Three Rivers Stadium
+PIT08,PNC Park
+PRO01,Adelaide Avenue Grounds
+PRO02,Messer Street Grounds
+RCK01,Agricultural Society Fair Grounds
+RIC01,Richmond Fair Grounds
+RIC02,Allens Pasture
+ROC01,Culver Field I
+ROC02,Culver Field II
+ROC03,Ontario Beach Grounds
+SAI01,St. George Cricket Grounds
+SAN01,Qualcomm Stadium
+SAN02,PETCO Park
+SEA01,Sick's Stadium
+SEA02,Kingdome
+SEA03,Safeco Field
+SFO01,Seals Stadium
+SFO02,Candlestick Park
+SFO03,AT&T Park
+SJU01,Estadio Hiram Bithorn
+SPR01,Hampden Park Race Track
+STL01,Red Stockings Base Ball Park
+STL02,Grand Avenue Park
+STL03,Sportsman's Park I
+STL04,Union Grounds
+STL05,Robison Field
+STL06,Sportsman's Park II
+STL07,Sportsman's Park III
+STL08,Handlan's Park
+STL09,Busch Stadium II
+STL10,Busch Stadium III
+STP01,Tropicana Field
+SYD01,Sydney Cricket Ground
+SYR01,Star Park I
+SYR02,Star Park II
+SYR03,Iron Pier
+THR01,Three Rivers Park
+TOK01,Tokyo Dome
+TOL01,League Park
+TOL02,Tri-State Fair Grounds
+TOL03,Speranza Park
+TOL04,Armory Park
+TOR01,Exhibition Stadium
+TOR02,Rogers Centre
+TRO01,Haymakers' Grounds
+TRO02,Putnam Grounds
+WAR01,Rocky Point Park
+WAS01,Olympic Grounds
+WAS02,National Grounds
+WAS03,Capitol Grounds
+WAS04,Athletic Park
+WAS05,Swampoodle Grounds
+WAS06,Boundary Field
+WAS07,American League Park I
+WAS08,American League Park II
+WAS09,Griffith Stadium
+WAS10,Robert F. Kennedy Stadium
+WAS11,Nationals Park
+WAT01,Troy Ball Club Grounds
+WAV01,Waverly Fairgrounds
+WEE01,Monitor Grounds
+WHE01,Island Grounds
+WIL01,Union Street Park
+WNY01,West New York Field Club Grounds
+WOR01,Agricultural County Fair Grounds I
+WOR02,Agricultural County Fair Grounds II
+WOR03,Worcester Driving Park Grounds
